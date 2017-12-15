@@ -1,4 +1,3 @@
-ceasar salad
-tomato
-buljonchik
-snowman
+filter filters some studd 
+
+(DateTime.Local == DateTime.Now)
