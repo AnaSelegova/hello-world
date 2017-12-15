@@ -4,7 +4,7 @@ namespace DebugTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(a);
+            HARRY POTTER!!!!
         }
     }
 }
