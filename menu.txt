@@ -1,11 +1,5 @@
-Sunnnnnnnnnnnnnn
-Mercury,
-Venus,
-Earth,
-Mars,
-Jupiter,
-Saturn,
-Uranus,
-Neptune,
-Pluto
-Snow
+Return a string representing the time component of the given DateTime in the format: 2:11 PM.
+public static string GetDisplayTime(DateTime datetime) 
+{ 
+    return datetime.ToString("h:mm tt") 
+}
