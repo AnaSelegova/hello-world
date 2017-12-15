@@ -19,7 +19,7 @@ namespace DebugTest
                         }
                     }
 
-            Console.WriteLine(a);
+          Console.WriteLine(a);
         }
     }
 }
