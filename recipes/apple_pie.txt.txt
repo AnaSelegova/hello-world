@@ -4,16 +4,6 @@ namespace DebugTest
     {
         static void Main(string[] args)
         {
-        namespace DebugTest
-                    {
-                        class Program
-                        {
-                            static void Main(string[] args)
-                            {
-                                int a 
-                                Console.WriteLine(a);
-                            }
-                        }
                     }
 
           Console.WriteLine(a);
