@@ -1,5 +1,14 @@
-Return a string representing the time component of the given DateTime in the format: 2:11 PM.
-public static string GetDisplayTime(DateTime datetime) 
-{ 
-    return datetime.ToString("h:mm tt") 
+namespace DebugTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 5;
+            a = a * 2;
+            a = a - 3;
+            a = a * 6;
+            Console.WriteLine(a);
+        }
+    }
 }
