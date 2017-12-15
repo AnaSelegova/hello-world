@@ -1,6 +1,14 @@
-1/2 flour
-1 spoon sugar
-10 apples
-lemon juice
-7.5 eggs
-wallnuts
+namespace DebugTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 5;
+            a = a * 2;
+            a = a - 3;
+            a = a * 6;
+            Console.WriteLine(a);
+        }
+    }
+}
